@@ -1,0 +1,262 @@
+[
+    {
+        "id": 0,
+        "l_case": "a",
+        "u_case": "A",
+        "vowel_conf": true,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/a",
+        "img_ref": "http://127.0.0.1:8000/img/for/a",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/a",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/a"
+    },
+    {
+        "id": 1,
+        "l_case": "b",
+        "u_case": "B",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/b",
+        "img_ref": "http://127.0.0.1:8000/img/for/b",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/b",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/b"
+    },
+    {
+        "id": 2,
+        "l_case": "c",
+        "u_case": "C",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/c",
+        "img_ref": "http://127.0.0.1:8000/img/for/c",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/c",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/c"
+    },
+    {
+        "id": 3,
+        "l_case": "d",
+        "u_case": "D",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/d",
+        "img_ref": "http://127.0.0.1:8000/img/for/d",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/d",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/d"
+    },
+    {
+        "id": 4,
+        "l_case": "e",
+        "u_case": "E",
+        "vowel_conf": true,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/e",
+        "img_ref": "http://127.0.0.1:8000/img/for/e",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/e",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/e"
+    },
+    {
+        "id": 5,
+        "l_case": "f",
+        "u_case": "F",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/f",
+        "img_ref": "http://127.0.0.1:8000/img/for/f",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/f",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/f"
+    },
+    {
+        "id": 6,
+        "l_case": "g",
+        "u_case": "G",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/g",
+        "img_ref": "http://127.0.0.1:8000/img/for/g",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/g",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/g"
+    },
+    {
+        "id": 7,
+        "l_case": "h",
+        "u_case": "H",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/h",
+        "img_ref": "http://127.0.0.1:8000/img/for/h",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/h",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/h"
+    },
+    {
+        "id": 8,
+        "l_case": "i",
+        "u_case": "I",
+        "vowel_conf": true,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/i",
+        "img_ref": "http://127.0.0.1:8000/img/for/i",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/i",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/i"
+    },
+    {
+        "id": 9,
+        "l_case": "j",
+        "u_case": "J",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/j",
+        "img_ref": "http://127.0.0.1:8000/img/for/j",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/j",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/j"
+    },
+    {
+        "id": 10,
+        "l_case": "k",
+        "u_case": "K",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/k",
+        "img_ref": "http://127.0.0.1:8000/img/for/k",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/k",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/k"
+    },
+    {
+        "id": 11,
+        "l_case": "l",
+        "u_case": "L",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/l",
+        "img_ref": "http://127.0.0.1:8000/img/for/l",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/l",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/l"
+    },
+    {
+        "id": 12,
+        "l_case": "m",
+        "u_case": "M",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/m",
+        "img_ref": "http://127.0.0.1:8000/img/for/m",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/m",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/m"
+    },
+    {
+        "id": 13,
+        "l_case": "n",
+        "u_case": "N",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/n",
+        "img_ref": "http://127.0.0.1:8000/img/for/n",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/n",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/n"
+    },
+    {
+        "id": 14,
+        "l_case": "o",
+        "u_case": "O",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/o",
+        "img_ref": "http://127.0.0.1:8000/img/for/o",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/o",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/o"
+    },
+    {
+        "id": 15,
+        "l_case": "p",
+        "u_case": "P",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/p",
+        "img_ref": "http://127.0.0.1:8000/img/for/p",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/p",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/p"
+    },
+    {
+        "id": 16,
+        "l_case": "q",
+        "u_case": "Q",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/q",
+        "img_ref": "http://127.0.0.1:8000/img/for/q",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/q",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/q"
+    },
+    {
+        "id": 17,
+        "l_case": "r",
+        "u_case": "R",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/r",
+        "img_ref": "http://127.0.0.1:8000/img/for/r",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/r",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/r"
+    },
+    {
+        "id": 18,
+        "l_case": "s",
+        "u_case": "S",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/s",
+        "img_ref": "http://127.0.0.1:8000/img/for/s",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/s",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/s"
+    },
+    {
+        "id": 19,
+        "l_case": "t",
+        "u_case": "T",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/t",
+        "img_ref": "http://127.0.0.1:8000/img/for/t",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/t",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/t"
+    },
+    {
+        "id": 20,
+        "l_case": "u",
+        "u_case": "U",
+        "vowel_conf": true,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/u",
+        "img_ref": "http://127.0.0.1:8000/img/for/u",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/u",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/u"
+    },
+    {
+        "id": 21,
+        "l_case": "v",
+        "u_case": "V",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/v",
+        "img_ref": "http://127.0.0.1:8000/img/for/v",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/v",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/v"
+    },
+    {
+        "id": 22,
+        "l_case": "w",
+        "u_case": "W",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/w",
+        "img_ref": "http://127.0.0.1:8000/img/for/w",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/w",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/w"
+    },
+    {
+        "id": 23,
+        "l_case": "x",
+        "u_case": "X",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/x",
+        "img_ref": "http://127.0.0.1:8000/img/for/x",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/x",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/x"
+    },
+    {
+        "id": 24,
+        "l_case": "y",
+        "u_case": "Y",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/y",
+        "img_ref": "http://127.0.0.1:8000/img/for/y",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/y",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/y"
+    },
+    {
+        "id": 25,
+        "l_case": "z",
+        "u_case": "Z",
+        "vowel_conf": false,
+        "write_img_ref": "http://127.0.0.1:8000/img/write/z",
+        "img_ref": "http://127.0.0.1:8000/img/for/z",
+        "audio_for_ref": "http://127.0.0.1:8000/aud/for/z",
+        "audio_norm_ref": "http://127.0.0.1:8000/aud/norm/z"
+    }
+]

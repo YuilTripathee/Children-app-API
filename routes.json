@@ -1,0 +1,47 @@
+[
+  {
+    "method": "GET",
+    "path": "/alphabets/remote",
+    "name": "main.main.func3"
+  },
+  {
+    "method": "GET",
+    "path": "/aud/norm/:id",
+    "name": "main.getAlpAud"
+  },
+  {
+    "method": "GET",
+    "path": "/aud/for/:id",
+    "name": "main.getAlpAudFor"
+  },
+  {
+    "method": "GET",
+    "path": "/*",
+    "name": "github.com/labstack/echo.common.static.func1"
+  },
+  {
+    "method": "GET",
+    "path": "/",
+    "name": "main.main.func2"
+  },
+  {
+    "method": "GET",
+    "path": "/alphabets/local",
+    "name": "main.main.func4"
+  },
+  {
+    "method": "GET",
+    "path": "/alphabet",
+    "name": "main.main.func5"
+  },
+  {
+    "method": "GET",
+    "path": "/img/for/:id",
+    "name": "main.getAlpImg"
+  },
+  {
+    "method": "GET",
+    "path": "/img/write/:id",
+    "name": "main.getAlpImgWrite"
+  }
+]

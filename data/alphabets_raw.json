@@ -1,0 +1,210 @@
+[
+    {
+        "id": 0,
+        "l_case": "a",
+        "u_case": "A",
+        "vowel_conf": true,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/c/c7/A_cursiva.gif",
+        "img_ref": "http://pngimg.com/uploads/apple/apple_PNG12405.png"
+    },
+    {
+        "id": 1,
+        "l_case": "b",
+        "u_case": "B",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/4/48/B_cursiva.gif",
+        "img_ref": "http://pngimg.com/uploads/football/football_PNG52789.png"
+    },
+    {
+        "id": 2,
+        "l_case": "c",
+        "u_case": "C",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/f/ff/C_cursiva.gif",
+        "img_ref": "https://www.freepngimg.com/thumb/cat/11-2-cat-png.png"
+    },
+    {
+        "id": 3,
+        "l_case": "d",
+        "u_case": "D",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/4/42/D_cursiva.gif",
+        "img_ref": "https://freepngimg.com/thumb/duck/6-little-duck-png-image.png"
+    },
+    {
+        "id": 4,
+        "l_case": "e",
+        "u_case": "E",
+        "vowel_conf": true,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/7/75/E_cursiva.gif",
+        "img_ref": "http://pngimg.com/uploads/elephants/elephants_PNG18794.png"
+    },
+    {
+        "id": 5,
+        "l_case": "f",
+        "u_case": "F",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/b/b0/F_cursiva.gif",
+        "img_ref": "http://pluspng.com/img-png/-3456.png"
+    },
+    {
+        "id": 6,
+        "l_case": "g",
+        "u_case": "G",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/a/a7/G_cursiva.gif",
+        "img_ref": "http://pngimg.com/uploads/giraffe/giraffe_PNG13518.png"
+    },
+    {
+        "id": 7,
+        "l_case": "h",
+        "u_case": "H",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/a/a2/H_cursiva.gif",
+        "img_ref": "http://pngimg.com/uploads/hat/hat_PNG5714.png"
+    },
+    {
+        "id": 8,
+        "l_case": "i",
+        "u_case": "I",
+        "vowel_conf": true,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/a/aa/I_cursiva.gif",
+        "img_ref": "http://pngimg.com/uploads/ice_cream/ice_cream_PNG20984.png"
+    },
+    {
+        "id": 9,
+        "l_case": "j",
+        "u_case": "J",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/a/ad/J_cursiva.gif",
+        "img_ref": "http://pngimg.com/uploads/milk/milk_PNG12748.png"
+    },
+    {
+        "id": 10,
+        "l_case": "k",
+        "u_case": "K",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/e/e9/K_cursiva.gif",
+        "img_ref": "http://pluspng.com/img-png/kite-png-hd-images-kite-png-transparent-image-850.png"
+    },
+    {
+        "id": 11,
+        "l_case": "l",
+        "u_case": "L",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/f/f9/L_cursiva.gif",
+        "img_ref": "https://www.freepngimg.com/thumb/lion/3-2-lion-png.png"
+    },
+    {
+        "id": 12,
+        "l_case": "m",
+        "u_case": "M",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/2/20/M_cursiva.gif",
+        "img_ref": "http://pngimg.com/uploads/monkey/monkey_PNG18736.png"
+    },
+    {
+        "id": 13,
+        "l_case": "n",
+        "u_case": "N",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/f/f8/N_cursiva.gif",
+        "img_ref": "https://pngimg.com/uploads/nest/nest_PNG63.png"
+    },
+    {
+        "id": 14,
+        "l_case": "o",
+        "u_case": "O",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/2/25/O_cursiva.gif",
+        "img_ref": "https://www.freepngimg.com/thumb/orange/8-2-orange-png-clipart.png"
+    },
+    {
+        "id": 15,
+        "l_case": "p",
+        "u_case": "P",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/0/08/P_cursive.gif",
+        "img_ref": "http://pngimg.com/uploads/penguin/pinguin_PNG7.png"
+    },
+    {
+        "id": 16,
+        "l_case": "q",
+        "u_case": "Q",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/6/69/Q_cursiva.gif",
+        "img_ref": "https://pngimage.net/wp-content/uploads/2018/06/queen-elizabeth-png-3.png"
+    },
+    {
+        "id": 17,
+        "l_case": "r",
+        "u_case": "R",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/f/fe/R_cursiva.gif",
+        "img_ref": "http://pngimg.com/uploads/rose/rose_PNG66948.png"
+    },
+    {
+        "id": 18,
+        "l_case": "s",
+        "u_case": "S",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/b/b8/S_cursiva.gif",
+        "img_ref": "https://pngimg.com/uploads/cobra/cobra_PNG56.png"
+    },
+    {
+        "id": 19,
+        "l_case": "t",
+        "u_case": "T",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/5/5f/T_cursiva.gif",
+        "img_ref": "http://pngimg.com/uploads/turtle/turtle_PNG7.png"
+    },
+    {
+        "id": 20,
+        "l_case": "u",
+        "u_case": "U",
+        "vowel_conf": true,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/1/12/U_cursiva.gif",
+        "img_ref": "http://pngimg.com/uploads/umbrella/umbrella_PNG69144.png"
+    },
+    {
+        "id": 21,
+        "l_case": "v",
+        "u_case": "V",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/b/b5/V_cursiva.gif",
+        "img_ref": "http://www.pngpix.com/wp-content/uploads/2016/10/PNGPIX-COM-Van-PNG-Transparent-Image-1.png"
+    },
+    {
+        "id": 22,
+        "l_case": "w",
+        "u_case": "W",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/a/a9/W_cursiva.gif",
+        "img_ref": "http://pngimg.com/uploads/car_wheel/car_wheel_PNG23298.png"
+    },
+    {
+        "id": 23,
+        "l_case": "x",
+        "u_case": "X",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/e/e4/X_cursiva.gif",
+        "img_ref": "https://freepngimg.com/thumb/xylophone/5-2-xylophone-picture.png"
+    },
+    {
+        "id": 24,
+        "l_case": "y",
+        "u_case": "Y",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/7/79/Y_cursiva.gif",
+        "img_ref": "http://pluspng.com/img-png/png-yak-vtt-au-nepal-et-au-tibet-yak-raid-600.png"
+    },
+    {
+        "id": 25,
+        "l_case": "z",
+        "u_case": "Z",
+        "vowel_conf": false,
+        "write_img_ref": "https://upload.wikimedia.org/wikipedia/commons/7/71/Z_cursiva.gif",
+        "img_ref": "https://cdn.pixabay.com/photo/2018/03/19/09/24/zebra-3239453_960_720.png"
+    }
+]
